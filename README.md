@@ -48,7 +48,7 @@ The episode terminates when the agent reaches the goal state (G) or falls into a
 ## Graphical Representation
 ![image](https://github.com/Ramsai1234/rl-value-iteration/assets/94269989/0611300b-3dce-496f-9329-2bf5f675c42f)
 
-## POLICY ITERATION ALGORITHM
+## VALUE ITERATION ALGORITHM
 1.Value iteration is a method of computing an optimal MDP policy and its value.
 
 2.It begins with an initial guess for the value function, and iteratively updates it towards the optimal value function, according to the Bellman optimality equation.
